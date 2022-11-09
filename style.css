@@ -4,9 +4,11 @@
     font-family:'Courier New', Courier, monospace
 }
 .recipes {
-    color: cyan;
-    text-align: center;
+    color: transparent;
 }
 * { 
     background-color: rgb(112, 110, 110);
+}
+.about { 
+    text-align: left;
 }
