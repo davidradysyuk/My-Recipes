@@ -1,12 +1,24 @@
 * { 
+    padding: 0px;
+    margin: 0px;
     color: cornflowerblue;
     text-align: center;
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
 }
 
 * { 
     background-color: rgb(112, 110, 110);
+    font-size: 40px;
 }
 .about {
     text-align: left;
+    position: relative;
+    top: 600px; 
+}
+.mainTitle {
+    padding: 10px;
+    width: 50%;
+    border: 2px solid cornflowerblue;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
